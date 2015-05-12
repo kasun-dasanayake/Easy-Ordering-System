@@ -3,6 +3,11 @@ Scope - The replacement of paper-based menus using an electronic format, the sec
 
 
 
-Settint the Project
+Setting  the Project
 Steps >
 Deploy the java project and set up the database file.
+
+Using Technologies
+
+Java Swing
+SQL
